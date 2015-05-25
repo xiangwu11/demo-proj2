@@ -1,0 +1,4 @@
+[submodule "lib/SpotfireSDK"]
+	path = lib/SpotfireSDK
+	url = https://github.com/PerkinElmer/spotfire-sdk
+	branch = SDK_650
